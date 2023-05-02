@@ -32,6 +32,14 @@ https://discord.com/invite/3DmJN2m
 http://forums.kc-mm.com/Gallery/BrawlView.php  
 https://gamebanana.com/games/5678
 
+
+### Brawlback(ランダムマッチ機能の実装modの開発鯖)
+https://discord.com/invite/dzYRN32k4D
+
+### mod等の関連コミュニティ
+https://discord.gg/GbxJhbv
+https://discord.gg/s7c8763
+
 ## :green_book: 編集TODO
 
 - [ ] 前のガイドからリンク等の情報を持ってくる
