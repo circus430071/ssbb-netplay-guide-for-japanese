@@ -14,6 +14,7 @@ Dolphin netplay(海外版): TODO| PC環境 海外版スマブラX(RSBE)|海外�
 
 ## 関連リンク集
 <!-- 関連しているものならばなんでもOK -->
+<!-- 長くなって邪魔になるようであれば別のmdへ切り出す -->
 ### 英語翻訳
 https://www.deepl.com/translator
 https://translate.google.com/
@@ -23,6 +24,13 @@ https://wii.guide/wiimmfi.html
 
 ### スマブラX海外コミュニティ
 https://discord.com/invite/3DmJN2m
+
+### テクスチャハック等
+> 同期ズレ等注意  
+> 中にはリージョンが異なるとそのまま使えないものもあるので留意  
+
+http://forums.kc-mm.com/Gallery/BrawlView.php  
+https://gamebanana.com/games/5678
 
 ## :green_book: 編集TODO
 
