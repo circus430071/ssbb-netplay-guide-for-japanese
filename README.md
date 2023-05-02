@@ -4,22 +4,46 @@
 加筆はプルリク送ってください。
 
 ## :globe_with_meridians: 利用可能な対戦方法一覧
-方法(TODO: 導入方法の解説へのリンク) | 必要なもの ()内は任意 | メリット | デメリット 
+方法 | 必要なもの ()内は任意 | メリット | デメリット 
 ---|---|---|---
-Wii実機 代替鯖 | Wii一式　日本版スマブラXのディスク (HDMI変換器) | 簡単 | 入力遅延、低画質
-Dolphin 代替鯖 | PC環境 日本版スマブラX 実機から吸い出したNand | Wiiで代替鯖に繋いでいる人と対戦できる | 
-Dolphin netplay(日本版)| PC環境 日本版スマブラX||代替鯖の人とは対戦できない、快適に遊ぶにはある程度のスペックが必要|
-Dolphin netplay(海外版)| PC環境 海外版スマブラX(RSBE)|海外コミュニティーで使用されているQOLパッチなどの恩恵を受けることができる|海外版の入手、代替鯖の人とは対戦できない、快適に遊ぶにはある程度のスペックが必要|
-
+[Wii実機 代替鯖](mds/wii-wiimmfi.md) | Wii一式　日本版スマブラXのディスク (HDMI変換器) | 簡単 | 入力遅延、低画質
+Dolphin 代替鯖: TODO | PC環境 日本版スマブラX 実機から吸い出したNand | Wiiで代替鯖に繋いでいる人と対戦できる |代替鯖由来の遅延|
+Dolphin netplay(日本版): TODO| PC環境 日本版スマブラX||代替鯖の人とは対戦できない、快適に遊ぶにはある程度のスペックが必要|
+Dolphin netplay(海外版): TODO| PC環境 海外版スマブラX(RSBE)|海外コミュニティーで使用されているQOLパッチなどの恩恵を受けることができる|海外版の入手、代替鯖の人とは対戦できない、快適に遊ぶにはある程度のスペックが必要|
+> Wii実機, PC(dolphin)どちらでも有線接続をおすすめします。(TODO: リサーチして簡単に理由を説明する　説明できない場合は撤回する)
 
 ## 関連リンク集
 <!-- 関連しているものならばなんでもOK -->
+<!-- 長くなって邪魔になるようであれば別のmdへ切り出す -->
 ### 英語翻訳
-https://www.deepl.com/translator
+https://www.deepl.com/translator  
 https://translate.google.com/
 
 ### Wii実機Wiimmfi接続方法詳細(英語)
 https://wii.guide/wiimmfi.html
+
+### スマブラX海外コミュニティ
+https://discord.com/invite/3DmJN2m
+
+### テクスチャハック等
+> 同期ズレ等注意  
+> 中にはリージョンが異なるとそのまま使えないものもあるので留意  
+
+http://forums.kc-mm.com/Gallery/BrawlView.php  
+https://gamebanana.com/games/5678
+
+### mod等の関連コミュニティ
+https://discord.gg/GbxJhbv  
+https://discord.gg/s7c8763
+
+### Brawlback(ランダムマッチ機能の実装modの開発鯖)
+https://discord.com/invite/dzYRN32k4D
+
+### Wimmfiサーバーステータス
+> おきらく乱闘に人がいるかどうか確認したりできる  
+https://wiimmfi.de/stat?m=8
+
+
 
 ## :green_book: 編集TODO
 
@@ -29,4 +53,7 @@ https://wii.guide/wiimmfi.html
 - [ ] いじると同期ズレする設定　等の注意
 - [ ] Dolphihの設定の補足　いじったほうが良い所とそうでない所　情報へのリンク
 - [ ] テクスチャハック等による同期ズレの注意　そこら辺のdolphinと実機の違い
-- [ ] discordへのリンク(先にサーバーを整えたほうが良い)
+- [ ] Wii,PCの有線接続の機器についての情報追加
+- [ ] MTUの情報へのリンク　簡単な説明
+- [ ] 最新バージョンのドルフィンを使うべきかイシイルカを使うべきかどうかの議論　利点　欠点
+- [ ] Q&Aをどっかに書く
