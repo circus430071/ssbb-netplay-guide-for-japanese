@@ -1,5 +1,9 @@
-# ssbb-netplay-guide-for-japanese
+## 大乱闘スマッシュブラザーズX　ネット対戦　日本語導入ガイド
+日本スマブラXコミュニティ([discord招待リンク](https://discord.gg/emdC7PfjW3))によって作成されたものです。  
+現在作成途中です。  
+加筆はプルリク送ってください。
 
+## :globe_with_meridians: 利用可能な対戦方法一覧
 方法(TODO: 導入方法の解説へのリンク) | 必要なもの ()内は任意 | メリット | デメリット 
 ---|---|---|---
 Wii実機 代替鯖 | Wii一式　日本版スマブラXのディスク (HDMI変換器) | 簡単 | 入力遅延、低画質
@@ -8,7 +12,16 @@ Dolphin netplay(日本版)| PC環境 日本版スマブラX||代替鯖の人と�
 Dolphin netplay(海外版)| PC環境 海外版スマブラX(RSBE)|海外コミュニティーで使用されているQOLパッチなどの恩恵を受けることができる|海外版の入手、代替鯖の人とは対戦できない、快適に遊ぶにはある程度のスペックが必要|
 
 
-## 編集TODO
+## 関連リンク集
+<!-- 関連しているものならばなんでもOK -->
+### 英語翻訳
+https://www.deepl.com/translator
+https://translate.google.com/
+
+### Wii実機Wiimmfi接続方法詳細(英語)
+https://wii.guide/wiimmfi.html
+
+## :green_book: 編集TODO
 
 - [ ] 前のガイドからリンク等の情報を持ってくる
 - [ ] 有用なコードをまとめておく
