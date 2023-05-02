@@ -9,6 +9,13 @@ Dolphin netplay(日本版)| PC環境 日本版スマブラX||代替鯖の人と�
 Dolphin netplay(海外版)| PC環境 海外版スマブラX(RSBE)|海外コミュニティーで使用されているQOLパッチなどの恩恵を受けることができる|海外版の入手、代替鯖の人とは対戦できない、快適に遊ぶにはある程度のスペックが必要|
 
 
+## 関連リンク集
+### 英語翻訳
+https://www.deepl.com/translator
+
+### Wii実機Wiimmfi接続方法詳細(英語)
+https://wii.guide/wiimmfi.html
+
 ## :green_book: 編集TODO
 
 - [ ] 前のガイドからリンク等の情報を持ってくる
