@@ -39,6 +39,10 @@ https://discord.gg/s7c8763
 ### Brawlback(ランダムマッチ機能の実装modの開発鯖)
 https://discord.com/invite/dzYRN32k4D
 
+### Wimmfiサーバーステータス
+> おきらく乱闘に人がいるかどうか確認したりできる  
+https://wiimmfi.de/stat?m=8
+
 
 
 ## :green_book: 編集TODO
