@@ -21,6 +21,9 @@ https://translate.google.com/
 ### Wii実機Wiimmfi接続方法詳細(英語)
 https://wii.guide/wiimmfi.html
 
+### スマブラX海外コミュニティ
+https://discord.com/invite/3DmJN2m
+
 ## :green_book: 編集TODO
 
 - [ ] 前のガイドからリンク等の情報を持ってくる
