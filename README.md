@@ -16,7 +16,7 @@ Dolphin netplay(海外版): TODO| PC環境 海外版スマブラX(RSBE)|海外�
 <!-- 関連しているものならばなんでもOK -->
 <!-- 長くなって邪魔になるようであれば別のmdへ切り出す -->
 ### 英語翻訳
-https://www.deepl.com/translator
+https://www.deepl.com/translator  
 https://translate.google.com/
 
 ### Wii実機Wiimmfi接続方法詳細(英語)
