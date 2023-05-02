@@ -23,6 +23,10 @@ https://translate.google.com/
 https://wii.guide/wiimmfi.html
 
 ### スマブラX海外コミュニティ
+> 海外勢が対戦募集等をしている鯖  
+> 日本からだと遅延が酷いので海外勢との対戦は今はやめておいたほうが良い
+> (TODO: 軽減策をまとめる)
+
 https://discord.com/invite/3DmJN2m
 
 ### テクスチャハック等
