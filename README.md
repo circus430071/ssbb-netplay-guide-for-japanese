@@ -1,4 +1,4 @@
-# ssbb-netplay-guide-for-japanese
+## 大乱闘スマッシュブラザーズX　ネット対戦　日本語導入ガイド
 
 ## :globe_with_meridians: 利用可能な対戦方法一覧
 方法(TODO: 導入方法の解説へのリンク) | 必要なもの ()内は任意 | メリット | デメリット 
