@@ -1,5 +1,6 @@
 # ssbb-netplay-guide-for-japanese
 
+## :globe_with_meridians: 利用可能な対戦方法一覧
 方法(TODO: 導入方法の解説へのリンク) | 必要なもの ()内は任意 | メリット | デメリット 
 ---|---|---|---
 Wii実機 代替鯖 | Wii一式　日本版スマブラXのディスク (HDMI変換器) | 簡単 | 入力遅延、低画質
