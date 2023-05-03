@@ -45,6 +45,7 @@ https://discord.com/invite/dzYRN32k4D
 
 ### Wimmfiサーバーステータス
 > おきらく乱闘に人がいるかどうか確認したりできる  
+
 https://wiimmfi.de/stat?m=8
 
 
