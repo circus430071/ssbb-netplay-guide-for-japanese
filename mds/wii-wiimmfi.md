@@ -4,3 +4,4 @@
 参考
 * https://megusistudy2.wixsite.com/wiihack/wiimmfi
 * https://blog.paper-cutting-art.com/wiimmfi/
+* 動画　https://www.youtube.com/watch?v=oKf9WfKYwyw (動画内で起動しているのはマリカだが、Xでも手順は同じ)
